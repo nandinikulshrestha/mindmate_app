@@ -1,4 +1,4 @@
-const Mood = require("../models/Mood");
+const Mood = require("../models/mood");
 
 const saveMood = async (req, res) => {
 

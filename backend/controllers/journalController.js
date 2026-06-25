@@ -1,4 +1,4 @@
-const Journal = require("../models/Journal");
+const Journal = require("../models/journal");
 
 const createJournal = async (req, res) => {
 
