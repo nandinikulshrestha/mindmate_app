@@ -26,7 +26,7 @@ function AIChat() {
       const token = localStorage.getItem("token");
 
       const response = await axios.post(
-        "http://localhost:5000/api/ai/chat",
+        "https://mindmate-app-4.onrender.com/api/ai/chat",
         {
           message: userMessage,
         },
