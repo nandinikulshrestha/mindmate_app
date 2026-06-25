@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MindMate App
 
 MindMate is a full-stack mental-wellness web app providing mood logging, journaling, an AI assistant, and anonymous mood-matching chat.
@@ -62,3 +63,7 @@ Open the frontend dev server (Vite) and ensure the backend runs at http://localh
 
 ---
 Created by project maintainer tools. For committing and pushing this README, say "commit" and I will create a git commit for you.
+=======
+# Mindmate
+Mental Wellness AI Assistant Using GEN-AI
+>>>>>>> 0352127b897fc4fe36a55cffa4b79602e9f5999a
